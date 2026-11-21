@@ -1,4 +1,4 @@
 user-agent:*
 ALLOW: /
-Sitemap:
-https://starshine-store.github.io/sitemap.xml
+
+Sitemap:https://starshine-store.github.io/sitemap.xml
